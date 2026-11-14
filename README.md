@@ -74,8 +74,7 @@ Information is used **only** to provide the Bot's features:
 - **Counting:** validating counts, tracking the current count and high score, and handling edits or deletions
 - **Truth or Dare:** storing and randomly selecting staff-provided prompts
 - **Connect 4:** running games between members
-- **Bot status:** optionally displaying a server's member count
-
+- 
 We do not use your information for advertising, marketing, analytics, profiling, automated decision-making beyond the features listed above, or training machine learning or AI models.
 
 ---
@@ -175,6 +174,5 @@ We may update this Privacy Policy from time to time, for example when features a
 
 For questions, concerns, or data requests about this Privacy Policy or the Bot, contact:
 
-- **Bot operator:** [YOUR NAME OR HANDLE]
-- **Discord:** [YOUR DISCORD USERNAME OR SUPPORT SERVER INVITE]
-- **Email:** [YOUR CONTACT EMAIL]
+- **Bot operator:** @thefrogfunyt
+- **Discord:** @thefrogfunyt
