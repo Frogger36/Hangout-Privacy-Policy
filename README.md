@@ -1,9 +1,9 @@
-# Privacy Policy — Hangout Night Bot
+# Privacy Policy - Hangout
 
 **Effective date:** November 14, 2026
 **Last updated:** November 14, 2026
 
-This Privacy Policy explains what information the Hangout Night Discord bot (the "Bot", "we", "us") collects, why it collects it, how it is stored, how long it is kept, and what choices you have. It applies to everyone who interacts with the Bot, including server owners and staff who configure it and members of any server the Bot is in.
+This Privacy Policy explains what information the Hangout Discord bot (the "Bot", "we", "us") collects, why it collects it, how it is stored, how long it is kept, and what choices you have. It applies to everyone who interacts with the Bot, including server owners and staff who configure it and members of any server the Bot is in.
 
 By adding the Bot to a server or interacting with it, you acknowledge the practices described here. If you do not agree, please do not use the Bot, and server owners may remove it at any time.
 
