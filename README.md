@@ -49,7 +49,6 @@ Truth or Dare prompts are stored **without** any record of who added them.
 | **Connect 4 games** | Players, board state, and piece colors are held in memory only for the duration of a game, and are discarded when the game ends or expires after 5 minutes of inactivity. |
 | **Command interactions** | When you use a slash command or button, Discord sends the Bot your user ID, display name, roles, and the server/channel you used it in. This is used to respond and to check permissions, and is not stored. |
 | **Server membership and role data** | Used to check staff permissions and to give or remove weekly leader roles. Not stored beyond the role IDs listed above. |
-| **Server member count** | May be shown in the Bot's status message. Not stored. |
 
 ### 2.3 Information we do not collect
 
